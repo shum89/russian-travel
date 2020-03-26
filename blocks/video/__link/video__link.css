@@ -1,0 +1,10 @@
+.video__link {
+    text-decoration: none;
+    color: white;
+    width: 100%;
+    min-height: 323px;
+    background-image: url(../__item/_kamchatka/Image.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+

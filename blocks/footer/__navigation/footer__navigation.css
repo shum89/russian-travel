@@ -1,0 +1,18 @@
+.footer__navigation {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+@media screen and (max-width: 500px) {
+    .footer__navigation {
+        flex-direction: column;
+        max-width: 312px;
+        align-items: flex-start;
+
+    }
+}
