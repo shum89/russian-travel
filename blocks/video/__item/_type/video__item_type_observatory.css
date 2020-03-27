@@ -1,0 +1,13 @@
+.video__item_type_observatory {
+    background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url("../../../../images/Image_video.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.video__item_type_observatory:hover {
+    background: linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.8)), url("../../../../images/Image_video.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

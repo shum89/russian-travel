@@ -5,6 +5,7 @@
     line-height: 30px;
     text-decoration-line: underline;
     color: white;
+    transition: opacity 0.3s ease-in;
 }
 
 .place__url-title:hover {

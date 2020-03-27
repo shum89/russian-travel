@@ -2,8 +2,8 @@
 @import url(./__duration/video__duration.css);
 @import url(./__icon-play/video__icon-play.css);
 @import url(./__item/video__item.css);
-@import url(./__item/_kamchatka/video__item_kamchatka.css);
-@import url(./__item/_observatory/video__item_observatory.css);
+@import url(./__item/_type/video__item_type_kamchatka.css);
+@import url(./__item/_type/video__item_type_observatory.css);
 @import url(./__subtitle/video__subtitle.css);
 @import url(./__title/video__title.css);
 @import url(../video/__link/video__link.css);

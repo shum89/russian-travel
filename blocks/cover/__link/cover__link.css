@@ -2,7 +2,7 @@
 .cover__link {
     width: 100%;
     min-height: 594px;
-    background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url("./Image.jpg");
+    background: linear-gradient(rgba(42, 44, 47, .3), rgba(42, 44, 47, .3)), url("../../../images/Image_cover.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -14,7 +14,7 @@
 }
 
 .cover__link:hover {
-    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("./Image.jpg");  
+    background: linear-gradient(rgba(42, 44, 47, .8), rgba(42, 44, 47, .8)), url("../../../images/Image_cover.jpg");  
     background-size: cover;
     background-position: center;
 }
